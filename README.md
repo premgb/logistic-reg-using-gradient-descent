@@ -1,1 +1,1 @@
-# logistic-reg-using-gradient-descent
+# logistic regression using gradient descent
